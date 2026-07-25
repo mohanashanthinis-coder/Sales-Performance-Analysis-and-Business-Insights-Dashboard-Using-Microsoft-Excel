@@ -1,0 +1,2 @@
+# Sales-Performance-Analysis-and-Business-Insights-Dashboard-Using-Microsoft-Excel
+Transforming raw sales data into actionable business intelligence using Microsoft Excel. This project combines data cleaning, advanced formulas, Pivot Tables, interactive dashboards, and insightful visualizations to uncover sales trends, regional performance, and strategic business opportunities through an intuitive analytics experience.
